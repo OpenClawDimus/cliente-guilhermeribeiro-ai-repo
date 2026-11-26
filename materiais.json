@@ -5,6 +5,32 @@
       "slug": "zibrido",
       "titulo": "TESTE v7 - FUZZY+TRAVA+UTM (apagar)",
       "destino": "https://dimus.com.br/teste-golive"
+    },
+    {
+      "slug": "mapaia6",
+      "titulo": "Mapa de IA para PMEs",
+      "destino": "https://blueprint.dimus.com.br/repositorio/mapa-ia-pme",
+      "resumo": "Descubra as 4 zonas onde a Inteligência Artificial pode gerar retorno real para pequenas e médias empresas, com orientação clara de por onde começar e em qual ordem avançar.",
+      "descricao": "Veja onde implementar IA traz mais retorno na sua PME: 4 zonas práticas, ordem de prioridade e próximo passo claro para avançar.",
+      "botao": "Acessar o Mapa de IA para PMEs",
+      "secoes": [
+        {
+          "titulo": "Por onde a IA realmente entrega ROI",
+          "texto": "A maioria das empresas tenta implantar IA em tudo ao mesmo tempo e não vê resultado. Este mapa mostra quais áreas priorizar para começar a colher retorno rápido e concreto."
+        },
+        {
+          "titulo": "As 4 zonas da implementação",
+          "texto": "Zona 1: Produção de Conteúdo — fácil de adotar, retorno alto. Zona 2: Atendimento e Qualificação — exige ajustes, mas inova o contato com o cliente. Zona 3: Análise e Diagnóstico — processos mais inteligentes com menor esforço. Zona 4: Operações Internas — melhorias profundas, porém maior complexidade."
+        },
+        {
+          "titulo": "O passo certo na ordem certa",
+          "texto": "O mapa te mostra por onde começar, qual o próximo degrau e evita desperdício de tempo e investimento. É um guia claro para destravar crescimento com IA na sua PME."
+        },
+        {
+          "titulo": "Pronto para descobrir seu gargalo?",
+          "texto": "Use o diagnóstico gratuito para identificar as três maiores prioridades do seu sistema de conteúdo e veja onde atacar primeiro para ter mais resultado."
+        }
+      ]
     }
   ]
 }
